@@ -40,7 +40,7 @@ class AmigosLocalDataSource @Inject constructor() {
             )
         }
     private val amigo1 = Amigo(
-        name = "Donut  ",
+        name = "Donut    ",
         specie = "Affenpinscher",
         years = "4 years",
         description = "Doggo ipsum shoob floofs doge dat tungg tho noodle horse, borkf adorable doggo dat tungg tho snoot, such treat big ol shoob.",
